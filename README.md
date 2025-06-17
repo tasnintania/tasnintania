@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  width="1100" src="sqa-banner.png">
+<img align="center" alt="Coding"  width="1100" src="linkdin cover.png">
 
 <h1 align="center">Hi 👋, I'm Tania Khatun </h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
